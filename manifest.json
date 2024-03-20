@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Rule34 + 1",
+  "description": "A convenient \"Next Button\" for rule34 website",
+  "version": "0.0.1",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "icons": { "16": "icon.png" },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.rule34.xxx/*"],
+      "js": ["content_script.js"]
+    }
+  ],
+  "permissions": ["activeTab", "storage"]
+}
