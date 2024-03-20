@@ -17,4 +17,5 @@ click "load unpacked" in browser extensions and select the "rule34nav" FOLDER.
 and Done. enjoy!
 
 Credits to : https://github.com/rule34plus1/rule34plus1/releases/tag/beta_release_V0.0.2
+
 It had most of the work done just needed to link the buttons to NEXT and BACK.
