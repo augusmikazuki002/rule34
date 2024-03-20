@@ -65,6 +65,13 @@ try {
             window.location.href = back.href;
           }
         }
+        else if (event.key === 'w' || event.key === 'W') {
+          window.scrollBy(0,-50);
+        }
+        else if (event.key === 's' || event.key === 'S') {
+          window.scrollBy(0,50);
+        }
+        }
       });
     });
   }
