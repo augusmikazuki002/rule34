@@ -71,7 +71,6 @@ try {
         else if (event.key === 's' || event.key === 'S') {
           window.scrollBy(0,50);
         }
-        }
       });
     });
   }
