@@ -8,11 +8,11 @@ You will additionally be able to navigate using you arrow keys or your A and D k
 
 # How To Use:
 
-just download and extract the **ZIP** file (rule34nav.zip) from https://github.com/augusmikazuki002/rule34.git
+just download and extract the **ZIP** file (rule34-main.zip) from https://github.com/augusmikazuki002/rule34.git
 
 then enable developer mode of your browser extensions
 
-click "load unpacked" in browser extensions and select the "rule34nav" FOLDER.
+click "load unpacked" in browser extensions and select the "rule34-main" FOLDER.
 
 and Done. enjoy!
 
